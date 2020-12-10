@@ -1,0 +1,9 @@
+<resources>
+    <string name = "app_name">App_CheckBox</string>
+    <string name = "txt_FirstValue">Enter the first value</string>
+    <string name = "txt_SecondValue">Enter the second value</string>
+    <string name = "check_add">Add</string>
+    <string name = "check_subtract">Subtract</string>
+    <string name = "button">Calculate</string>
+    <string name = "tv_result">Result</string>
+</resources>

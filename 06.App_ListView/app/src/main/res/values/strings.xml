@@ -1,0 +1,5 @@
+<resources>
+    <string name = "app_name">App_ListView</string>
+    <string name = "TextView">Select a name</string>
+    <string name = "txt_tv1">Age of %1$s is %2$d years</string>
+</resources>

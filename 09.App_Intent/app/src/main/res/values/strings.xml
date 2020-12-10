@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App_Intent</string>
+    <string name="etName1">Name</string>
+    <string name="etName2">Name</string>
+    <string name="SendButton">Send</string>
+    <string name="ReturnButton">Return</string>
+    <string name="txt_tv1">Hello %1$s</string>
+    <string name="txt_web">Enter the website</string>
+    <string name="GoButton">Go to website</string>
+    <string name="CloseButton">Close</string>
+</resources>

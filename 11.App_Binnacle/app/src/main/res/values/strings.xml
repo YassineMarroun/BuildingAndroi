@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_Binnacle</string>
+    <string name="txt_name">File name</string>
+    <string name="Button1">Save</string>
+    <string name="Button2">Consult</string>
+    <string name="Button3">Save to SD</string>
+</resources>

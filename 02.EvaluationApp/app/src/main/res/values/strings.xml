@@ -1,0 +1,9 @@
+<resources>
+    <string name = "app_name">EvaluationApp</string>
+    <string name = "txt_status">Status %1$s with %2$d</string>
+    <string name = "txt_view_String">Student Status</string>
+    <string name = "txt_mathematics_String">Mathematics</string>
+    <string name = "txt_physics_String">Physics</string>
+    <string name = "txt_chemistry_String">Chemistry</string>
+    <string name = "button">Evaluate</string>
+</resources>

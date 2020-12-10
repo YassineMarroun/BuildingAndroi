@@ -1,0 +1,7 @@
+<resources>
+    <string name = "app_name">FirstApp</string>
+    <string name = "txt_num1">Give the first value</string>
+    <string name = "txt_num2">Give the second value</string>
+    <string name = "txt_result">Result</string>
+    <string name = "button">Sum</string>
+</resources>

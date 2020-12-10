@@ -1,0 +1,7 @@
+<resources>
+    <string name = "app_name">App_SharedPreferences</string>
+    <string name = "txt_name">Contact name</string>
+    <string name = "txt_data">Contact details</string>
+    <string name = "SaveButton">Save</string>
+    <string name = "SearchButton">Search</string>
+</resources>
