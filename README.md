@@ -1,6 +1,10 @@
 # BuildingAndroid
 Learning concepts, improving skills.
 
+12.App_Database
+  - Saving data on a database using SQLite.
+  - Search, modify and delete methods for database using SQLite.
+
 11.App_Binnacle
   - Saving and reading data from local file.
   - Emulating in external memory too.
