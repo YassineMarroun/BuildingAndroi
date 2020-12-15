@@ -1,6 +1,9 @@
 # BuildingAndroid
 Learning concepts, improving skills.
 
+13.App_LinearLayout
+  - Using properties of LinearLayout.
+
 12.App_Database
   - Saving data on a database using SQLite.
   - Search, modify and delete methods for database using SQLite.
