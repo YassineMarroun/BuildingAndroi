@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_FrameLayout</string>
+    <string name="button">Hide</string>
+    <string name="todo">TODO</string>
+</resources>

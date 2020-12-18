@@ -1,6 +1,9 @@
 # BuildingAndroid
 Learning concepts, improving skills.
 
+15.App_FrameLayout
+  - Using properties of FrameLayout.
+
 14.App_TableLayout
   - Using properties of TableLayout.
 
