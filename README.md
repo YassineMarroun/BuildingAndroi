@@ -1,6 +1,9 @@
 # BuildingAndroid
 Learning concepts, improving skills.
 
+14.App_TableLayout
+  - Using properties of TableLayout.
+
 13.App_LinearLayout
   - Using properties of LinearLayout.
 
