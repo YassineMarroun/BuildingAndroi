@@ -1,6 +1,12 @@
 # BuildingAndroid
 Learning concepts, improving skills.
 
+16.App_ScrollView.
+  - Using properties of ScrollView.
+  - Adding images to components.
+  - Changed the app logo and name.
+  - Created a color palette to customize the app.
+
 15.App_FrameLayout
   - Using properties of FrameLayout.
 
