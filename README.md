@@ -1,6 +1,9 @@
 # BuildingAndroid
 Learning concepts, improving skills.
 
+17.App_AudioPlayback.
+  - Using SoundPool and MediaPlayer classes for audio playback.
+
 16.App_ScrollView.
   - Using properties of ScrollView.
   - Adding images to components.
