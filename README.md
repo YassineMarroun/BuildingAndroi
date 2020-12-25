@@ -1,10 +1,13 @@
 # BuildingAndroid
 Learning concepts, improving skills.
 
-17.App_AudioPlayback.
+18.App_MusicPlayer
+  - Used MediaPlayer class to mount the functionality of a music player.
+
+17.App_AudioPlayback
   - Using SoundPool and MediaPlayer classes for audio playback.
 
-16.App_ScrollView.
+16.App_ScrollView
   - Using properties of ScrollView.
   - Adding images to components.
   - Changed the app logo and name.
@@ -56,7 +59,7 @@ Learning concepts, improving skills.
   - Adding RadioGroup.
   - Refining code and methods.
 
-02. Evaluation App.
+02. Evaluation App
   - Using TextView, TextField, Button. From graphical side to the functionality on logical side.
   - Resolution of warnings.
 
