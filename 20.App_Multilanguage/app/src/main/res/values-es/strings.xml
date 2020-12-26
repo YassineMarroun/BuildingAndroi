@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacion Multilenguaje</string>
+    <string name="Button">Iniciar Sesion</string>
+    <string name="et_user">Usuario</string>
+    <string name="et_password">Contrasena</string>
+    <string name="textView">Todos los derechos reservados</string>
+</resources>

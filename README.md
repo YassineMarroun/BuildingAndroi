@@ -1,6 +1,9 @@
 # BuildingAndroid
 Learning concepts, improving skills.
 
+20.App_Multilanguage
+  - Functionality for a multilanguage application.
+
 19. App_AudioRecorder 
   - Using MediaRecorder class for audio recording.
 
