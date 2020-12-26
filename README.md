@@ -1,13 +1,16 @@
 # BuildingAndroid
 Learning concepts, improving skills.
 
-18.App_MusicPlayer
+19. App_AudioRecorder 
+  - Using MediaRecorder class for audio recording.
+
+18. App_MusicPlayer
   - Used MediaPlayer class to mount the functionality of a music player.
 
-17.App_AudioPlayback
+17. App_AudioPlayback
   - Using SoundPool and MediaPlayer classes for audio playback.
 
-16.App_ScrollView
+16. App_ScrollView
   - Using properties of ScrollView.
   - Adding images to components.
   - Changed the app logo and name.
@@ -16,17 +19,17 @@ Learning concepts, improving skills.
 15.App_FrameLayout
   - Using properties of FrameLayout.
 
-14.App_TableLayout
+14. App_TableLayout
   - Using properties of TableLayout.
 
-13.App_LinearLayout
+13. App_LinearLayout
   - Using properties of LinearLayout.
 
-12.App_Database
+12. App_Database
   - Saving data on a database using SQLite.
   - Search, modify and delete methods for database using SQLite.
 
-11.App_Binnacle
+11. App_Binnacle
   - Saving and reading data from local file.
   - Emulating in external memory too.
 
