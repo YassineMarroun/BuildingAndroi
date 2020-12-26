@@ -3,6 +3,7 @@ Learning concepts, improving skills.
 
 21.App_OverFlowMenu
   - Adding OverFlow menu to MainActivity.
+  - Adding buttons to the ActionBar.
 
 20.App_Multilanguage
   - Functionality for a multilanguage application.

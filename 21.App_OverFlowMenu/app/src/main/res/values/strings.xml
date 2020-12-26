@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">App_OverFlowMenu</string>
+    <string name="Search">Search</string>
+    <string name="Share">Share</string>
     <string name="item1">Option 1</string>
     <string name="item2">Option 2</string>
     <string name="item3">Option 3</string>

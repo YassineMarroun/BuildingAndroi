@@ -25,12 +25,25 @@ public class MainActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
 
         int id = item.getItemId();
+        if(id == R.id.share) {
+            Toast.makeText(this, "Share", Toast.LENGTH_SHORT).show();
+            return true;
+        }
+        if(id == R.id.search) {
+            Toast.makeText(this, "Search", Toast.LENGTH_SHORT).show();
+            return true;
+        }
         if(id == R.id.item1) {
             Toast.makeText(this, "Option 1", Toast.LENGTH_SHORT).show();
-        } else if(id == R.id.item2) {
+            return true;
+        }
+        if(id == R.id.item2) {
             Toast.makeText(this, "Option 2", Toast.LENGTH_SHORT).show();
-        } else if(id == R.id.item3) {
+            return true;
+        }
+        if(id == R.id.item3) {
             Toast.makeText(this, "Option 3", Toast.LENGTH_SHORT).show();
+            return true;
         }
         return super.onOptionsItemSelected(item);
     }
