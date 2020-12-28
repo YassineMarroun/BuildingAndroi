@@ -1,6 +1,9 @@
 # BuildingAndroid
 Learning concepts, improving skills.
 
+23.App_ResponsiveDesign
+  - Applying the functionality to adapt the design to the resolution of the device.
+
 22.App_Photo
   - Using the device's camera to take pictures.
   - Recording video too.
