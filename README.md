@@ -2,7 +2,8 @@
 Learning concepts, improving skills.
 
 22.App_Photo
-  - Using the device's camera.
+  - Using the device's camera to take pictures.
+  - Recording video too.
   - Using the Android documentation at developer.android.com
 
 21.App_OverFlowMenu

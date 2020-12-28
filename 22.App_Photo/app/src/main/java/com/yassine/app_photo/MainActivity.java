@@ -83,4 +83,14 @@ public class MainActivity extends AppCompatActivity {
             img.setImageBitmap(imageBitmap);
         }
     }
+
+
+    static final int REQUEST_VIDEO_CAPTURE = 1;
+    @SuppressLint("QueryPermissionsNeeded")
+    public void takeVideo(View view) {
+        Intent takeVideoIntent = new Intent(MediaStore.ACTION_VIDEO_CAPTURE);
+        if (takeVideoIntent.resolveActivity(getPackageManager()) != null) {
+            startActivityForResult(takeVideoIntent, REQUEST_VIDEO_CAPTURE);
+        }
+    }
 }
