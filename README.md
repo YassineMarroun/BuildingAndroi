@@ -1,6 +1,10 @@
 # BuildingAndroid
 Learning concepts, improving skills.
 
+22.App_Photo
+  - Using the device's camera.
+  - Using the Android documentation at developer.android.com
+
 21.App_OverFlowMenu
   - Adding OverFlow menu to MainActivity.
   - Adding buttons to the ActionBar.
